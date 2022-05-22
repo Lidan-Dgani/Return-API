@@ -1,0 +1,14 @@
+body{
+    direction: rtl;
+    background-color: rgb(124, 179, 235);
+    color: black;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: hidden;
+    text-align: right;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 3rem;
+}
